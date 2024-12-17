@@ -23,3 +23,4 @@ mascotadiferente(ana, daniel) :- mascota(X), mascota(Y), X \= Y.
 mascotadiferente(bruno, carla) :- mascota(X), mascota(Y), X \= Y.
 mascotadiferente(bruno, daniel) :- mascota(X), mascota(Y), X \= Y.
 mascotadiferente(carla, daniel) :- mascota(X), mascota(Y), X \= Y.
+
